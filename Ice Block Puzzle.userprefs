@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CircleScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CircleScript.cs" Line="18" Column="27" />
+      <File FileName="Assets/Scripts/DownKey.cs" Line="48" Column="3" />
+      <File FileName="Assets/Scripts/LeftKey.cs" Line="48" Column="3" />
+      <File FileName="Assets/Scripts/RightKey.cs" Line="47" Column="39" />
+      <File FileName="Assets/Scripts/UpKey.cs" Line="27" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
